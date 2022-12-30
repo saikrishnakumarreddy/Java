@@ -102,6 +102,7 @@
               * [GenericHeap](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/heaps/GenericHeap.java)
               * [Heap](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/heaps/Heap.java)
               * [HeapElement](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/heaps/HeapElement.java)
+              * [LeftistHeap](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/heaps/LeftistHeap.java)
               * [MaxHeap](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/heaps/MaxHeap.java)
               * [MinHeap](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/heaps/MinHeap.java)
               * [MinPriorityQueue](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/heaps/MinPriorityQueue.java)
@@ -532,6 +533,7 @@
               * [HashMapCuckooHashingTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/datastructures/hashmap/HashMapCuckooHashingTest.java)
             * heaps
               * [FibonacciHeapTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/datastructures/heaps/FibonacciHeapTest.java)
+              * [LeftistHeapTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/datastructures/heaps/LeftistHeapTest.java)
             * lists
               * [SkipListTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/datastructures/lists/SkipListTest.java)
             * queues
